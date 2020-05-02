@@ -1,0 +1,12 @@
+/Users/masonschafer/Projects/todo_list_app/todo_list_app/bin/Debug/netcoreapp3.1/todo_list_app.deps.json
+/Users/masonschafer/Projects/todo_list_app/todo_list_app/bin/Debug/netcoreapp3.1/todo_list_app.runtimeconfig.json
+/Users/masonschafer/Projects/todo_list_app/todo_list_app/bin/Debug/netcoreapp3.1/todo_list_app.runtimeconfig.dev.json
+/Users/masonschafer/Projects/todo_list_app/todo_list_app/bin/Debug/netcoreapp3.1/todo_list_app.dll
+/Users/masonschafer/Projects/todo_list_app/todo_list_app/bin/Debug/netcoreapp3.1/todo_list_app.pdb
+/Users/masonschafer/Projects/todo_list_app/todo_list_app/obj/Debug/netcoreapp3.1/todo_list_app.csprojAssemblyReference.cache
+/Users/masonschafer/Projects/todo_list_app/todo_list_app/obj/Debug/netcoreapp3.1/todo_list_app.csproj.CoreCompileInputs.cache
+/Users/masonschafer/Projects/todo_list_app/todo_list_app/obj/Debug/netcoreapp3.1/todo_list_app.AssemblyInfoInputs.cache
+/Users/masonschafer/Projects/todo_list_app/todo_list_app/obj/Debug/netcoreapp3.1/todo_list_app.AssemblyInfo.cs
+/Users/masonschafer/Projects/todo_list_app/todo_list_app/obj/Debug/netcoreapp3.1/todo_list_app.dll
+/Users/masonschafer/Projects/todo_list_app/todo_list_app/obj/Debug/netcoreapp3.1/todo_list_app.pdb
+/Users/masonschafer/Projects/todo_list_app/todo_list_app/obj/Debug/netcoreapp3.1/todo_list_app.genruntimeconfig.cache
